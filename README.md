@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamadai
-- 👀 I’m not good at coding...
-
+- 👀 
 
 <!---
 iamadai/iamadai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
